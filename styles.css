@@ -57,3 +57,13 @@
   width: 100%;
   background-color: coral;
 }
+.Gallery {
+  text-align: center;
+  font-size: 60px;
+  font-family: fantasy;
+  padding-top: 50px;
+}
+.flex-container5 {
+  display: flex;
+  justify-content: space-evenly;
+}
