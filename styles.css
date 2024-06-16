@@ -67,3 +67,13 @@
   display: flex;
   justify-content: space-evenly;
 }
+.background4 {
+  background-color: beige;
+  height: 250px;
+  width: 100%;
+}
+.Trademark {
+  text-align: center;
+  padding-top: 100px;
+  font-size: 25px;
+}
