@@ -11,26 +11,39 @@
   margin-left: 150px;
   font-size: 70px;
   margin-top: 50px;
+  font-family: fantasy;
 }
 .top-right {
   margin-left: 200px;
   margin-top: 90px;
   color: rgb(0, 0, 0);
   font-size: 30px;
+  font-family: fantasy;
 }
 .flex-container2 {
   background-color: beige;
   height: 1000px;
+  display: flex;
 }
-.image-header {
-  padding-left: 100px;
-  padding-right: 300px;
-  padding-top: 50px;
-  font-size: 25px;
-  font-family: cursive;
+.flex-container3 {
+  display: block;
+  font-family: fantasy;
+  margin-left: 150px;
+  margin-top: 100px;
 }
-.image-style {
-  height: auto;
-  width: 350px;
-  padding-left: 100px;
+.flex-container4 {
+  margin-left: 100px;
+  margin-top: 200px;
+  margin-right: 150px;
+  font-size: 24px;
+}
+.Started {
+  margin-left: 150px;
+  font-size: 50px;
+  font-family: fantasy;
+}
+.Description {
+  margin-top: 20px;
+  font-family: fantasy;
+  margin-bottom: 200px;
 }
